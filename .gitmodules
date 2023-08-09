@@ -1,0 +1,9 @@
+[submodule "LearningExpress"]
+	path = LearningExpress
+	url = https://github.com/SebiPochi/LearningExpress
+[submodule "LearningNext"]
+	path = LearningNext
+	url = https://github.com/SebiPochi/LearningNext
+[submodule "LearningFirebase"]
+	path = LearningFirebase
+	url = https://github.com/SebiPochi/LearningFirebase
